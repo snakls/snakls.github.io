@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(20, 131, 20);
+    border: 2px solid black;
+}
+h1 {
+    color: springgreen;
+}
+.firstp{
+    color: aliceblue;
+}
+a {
+    text-decoration: none;
+    
+}
